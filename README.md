@@ -1,13 +1,14 @@
 
 ## About me
 
-I love to create useful things for others. 
+I'm a frontend developer who loves to create solutions and share valuable data to help people in their daily lives using:
 
-Besides that, I share my knowledge about React to help those who are starting with this efficient library 
-or experienced frontend developer.
+✅ React <br/>
+✅ TypeScript <br/>
+✅ Jest / Testing Library <br/>
 
 Below, you could see my stack I'm working with!
-
+<br/>
 
 ## 💻 My Stack
 
@@ -15,7 +16,8 @@ Below, you could see my stack I'm working with!
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)&nbsp;&nbsp;
-![ShadCDN/Ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 
 ## 🔥 My Github Stats

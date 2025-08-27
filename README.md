@@ -1,13 +1,14 @@
+## Hi 👋, I'm Javi
 
-## About me
+I'm a frontend developer who loves to create solutions and share valuable data to help people in their daily lives.
 
-I'm a frontend developer who loves to create solutions and share valuable data to help people in their daily lives using:
+I specialize with React, TypeScript and Jest to check out my code works as expected.✅
 
-✅ React <br/>
-✅ TypeScript <br/>
-✅ Jest / Testing Library <br/>
+I would like to tell you that is enough, although I would lie to you, because I'm always learning something new.
 
-Below, you could see my stack I'm working with!
+
+Feel free to check out my projects I've worked on in my spare time and give me some feedback!
+
 <br/>
 
 ## 💻 My Stack

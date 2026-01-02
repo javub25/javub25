@@ -1,13 +1,22 @@
-## Hi 👋, I'm Javi
+## Hi 👋 All!
 
-I'm a frontend developer who loves to create solutions and share valuable data to help people in their daily lives.
+My name is Javi and I'm a software developer who loves to build scalable apps.
 
-I specialize with React, TypeScript and Jest to check out my code works as expected.✅
+At the beginning of my journey, I thought it was necessary to be proficient in everything. 
 
-I would like to tell you that is enough, although I would lie to you, because I'm always learning something new.
+This way, I focused on software fundamentals and React stack, sharing tips of my experience on Linkedin.
 
 
-Feel free to check out my projects I've worked on in my spare time and give me some feedback!
+# Some of my hightlight projects
+
+**Breath Space**: Offers personalized break recommendations to help people take breaks.
+  It suggests the perfect way to relax.
+
+**Calorix**: Calculates how many calories are burned based on sport and intensity.
+
+
+## 🌍 Social Network
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierubedarayo/)
 
 <br/>
 
@@ -18,15 +27,3 @@ Feel free to check out my projects I've worked on in my spare time and give me s
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)&nbsp;&nbsp;
 ![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
-
-## 🔥 My Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javub25&layout=pie)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
-
-
-## Let's connect
-
-[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/javierubedarayo/)
-

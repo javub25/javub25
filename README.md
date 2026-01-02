@@ -2,9 +2,11 @@
 
 My name is Javi and I'm a software developer who loves to build scalable apps.
 
-At the beginning of my journey, I thought it was necessary to be proficient in everything. 
+At the beginning of my journey, I thought it was necessary to be proficient in everything.
 
-This way, I focused on software fundamentals and React stack, sharing tips of my experience on Linkedin.
+Thay's why I focused on software fundamentals and React stack.
+
+Sharing tips, projects and useful information for others on Linkedin.
 
 
 # Some of my hightlight projects
@@ -18,7 +20,10 @@ This way, I focused on software fundamentals and React stack, sharing tips of my
 ## 🌍 Social Network
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierubedarayo/)
 
-<br/>
 
 ## 💻 My Stack
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,tailwindcss,react,jest&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,tailwindcss,react,jest,figma&theme=dark)
+
+
+## 🔥 Github Stats
+![Github Stats](https://github-contribution-stats.vercel.app/api/?username=javub25&theme=radical&layout=compact)

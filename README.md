@@ -1,20 +1,19 @@
-## Hi 👋 All!
+## Welcome to my profile 👋
 
-My name is Javi and I'm a software developer who loves to build scalable apps.
+Nice to meet you, I'm Javi!
 
-At the beginning of my journey, I thought it was necessary to be proficient in everything.
+A software developer who focuses on software fundamentals to build scalable apps.
 
-Thay's why I focused on software fundamentals and React stack.
+Over time, I realized understanding core principles was my real growth.
 
-Sharing tips, projects and useful information for others on Linkedin.
+Today, I focus on applying those principles and sharing my experience on Linkedin.
 
 
 # Some of my hightlight projects
 
-**Breath Space**: Offers personalized break recommendations to help people take breaks.
-  It suggests the perfect way to relax.
+**Breath Space**: Helps authenticated users take breaks by personalized recommendations.
 
-**Calorix**: Calculates how many calories are burned based on sport and intensity.
+**Calorix**: Helps athletes to track their calories by providing them a real-time feedback.
 
 
 ## 🌍 Social Network

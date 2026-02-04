@@ -1,15 +1,24 @@
-## Welcome to my profile 👋
 
-Nice to meet you, I'm Javi!
+## About Me 
 
-A software developer who focuses on software fundamentals to build scalable apps.
+I'm Javi! 👋
+
+I'm a software developer who focuses on software fundamentals to build scalable apps.
 
 Over time, I realized understanding core principles was my real growth.
 
 Today, I focus on applying those principles and sharing my experience on Linkedin.
+\
+<br/>
+
+✔️ Clean code \
+\
+✔️ Testing (TDD) with React, TypeScript and JavaScript \
+\
+✔️ How to apply SOLID in frontend
 
 
-# Some of my hightlight projects
+# Some of my best projects
 
 **Breath Space**: Helps authenticated users take breaks by personalized recommendations.
 

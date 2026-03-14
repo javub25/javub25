@@ -23,7 +23,7 @@ Published on Linkedin · 48 shares
 
 
 ## 💻 My Stack
-![My Skills](https://skillicons.dev/icons?i=javascript,typescript,tailwindcss,react,jest,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=angular,typescript,tailwindcss,react,jest&theme=dark)
 
 
 ## 🔥 Github Stats

@@ -1,11 +1,9 @@
 
 ## About Me 
 
-I'm Javi! 👋
+I'm a software developer who focuses on software fundamentals. 👋
 
-I'm a software developer who focuses on software fundamentals to build scalable apps.
-
-Today, I focus on applying those principles and sharing my experience on Linkedin.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scalable+Apps;Sharing+experience+on+Linkedin)](https://git.io/typing-svg)
 
 ## 📚 Most Valued Technical Documents
 

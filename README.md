@@ -23,6 +23,8 @@ Published on Linkedin · 48 shares
 ## 💻 My Stack
 ![My Skills](https://skillicons.dev/icons?i=angular,typescript,tailwindcss,react,jest&theme=dark)
 
+## 🤖 IA Stack
+Claude Code · Windsurf
 
 ## 🔥 Github Stats
 ![Github Stats](https://github-contribution-stats.vercel.app/api/?username=javub25&theme=radical&layout=compact)

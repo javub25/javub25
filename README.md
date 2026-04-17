@@ -27,4 +27,5 @@ Published on Linkedin · 48 shares
 Claude Code · Windsurf
 
 ## 🔥 Github Stats
-![Github Stats](https://github-contribution-stats.vercel.app/api/?username=javub25&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javub25&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+

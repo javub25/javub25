@@ -1,7 +1,7 @@
 
 ## About Me 
 
-I'm a software developer who focuses on software fundamentals. 👋
+I'm a software developer who focuses on code quality to avoid long-term problems. 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scalable+Apps;Sharing+experience+on+Linkedin)](https://git.io/typing-svg)
 

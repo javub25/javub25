@@ -1,7 +1,7 @@
 
 ## About Me 
 
-I'm a software developer who focuses on code quality to avoid long-term problems. 👋
+👋 I specialize in building robust TypeScript applications.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scalable+Apps;Sharing+experience+on+Linkedin)](https://git.io/typing-svg)
 
@@ -21,10 +21,10 @@ Published on Linkedin · 48 shares
 
 
 ## 💻 My Stack
-![My Skills](https://skillicons.dev/icons?i=angular,typescript,tailwindcss,react,jest&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=angular,typescript,react,jest&theme=dark)
 
-## 🤖 IA Stack
-Claude Code · Windsurf
+## 🤖 LLM Tools
+Claude Code 
 
 ## 🔥 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javub25&layout=pie)](https://github.com/anuraghazra/github-readme-stats)

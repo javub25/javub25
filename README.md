@@ -24,7 +24,7 @@ Published on Linkedin · 48 shares
 ## 💻 My Stack
 ![My Skills](https://skillicons.dev/icons?i=angular,typescript,react,jest&theme=dark)
 
-## 🤖 LLM Tools
+## 🤖 AI Agents
 Claude Code 
 
 ## 🔥 Github Stats

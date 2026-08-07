@@ -1,7 +1,8 @@
 
 ## About Me 
 
-👋 I specialize in building robust TypeScript applications.
+👋 I specialize in developing high-impact applications using TypeScript, React and Next.js.
+I developed data-driven forms, achieving 30%+ user acquisition, while maintaining 80%+ test coverage in production.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scalable+Apps;Sharing+experience+on+Linkedin)](https://git.io/typing-svg)
 

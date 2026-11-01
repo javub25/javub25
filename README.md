@@ -22,11 +22,10 @@ Published on Linkedin · 48 shares
 
 
 ## 💻 My Stack
-![My Skills](https://skillicons.dev/icons?i=angular,typescript,react,jest&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,jest,vitest,supabase&theme=dark)
 
 ## 🤖 AI Agents
 Claude Code 
 
-## 🔥 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javub25&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
